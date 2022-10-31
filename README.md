@@ -43,7 +43,6 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 ![image](https://user-images.githubusercontent.com/64016811/198981810-9bcb3159-ee17-46d1-9cb5-b9a32e7d03d3.png)
 ![image](https://user-images.githubusercontent.com/64016811/198981916-b6425efb-b48a-4b72-95cb-733623da1c58.png)
 ![image](https://user-images.githubusercontent.com/64016811/198981964-64c397d9-aeed-45ff-ac3a-ed96e8c3059e.png)
-![image](https://user-images.githubusercontent.com/64016811/198982028-5dabc67d-b6d5-4283-80d6-2f18af25034a.png)
 
 ### Made with 💙 by:
 ![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
